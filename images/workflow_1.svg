@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Généré par Microsoft Visio, SVG Export workflow_1.svg Page 1 -->
+
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.6843in"
+   height="3.3221in"
+   viewBox="0 0 409.27 239.191"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st9"
+   version="1.1"
+   id="svg48"
+   sodipodi:docname="workflow_1.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata52"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1256"
+   inkscape:window-height="745"
+   id="namedview50"
+   showgrid="false"
+   inkscape:zoom="0.92260707"
+   inkscape:cx="241.61202"
+   inkscape:cy="189.21332"
+   inkscape:window-x="102"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg48" />
+	<v:documentProperties
+   v:langID="1036"
+   v:metric="true"
+   v:viewMarkup="false" />
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.25;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st3 {fill:#70ad47;stroke:#375623;stroke-width:0.75}
+		.st4 {fill:#feffff;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st5 {font-family:Segoe UI Symbol;font-size:1em;font-weight:normal}
+		.st6 {fill:#c55a11;stroke:#833c0b;stroke-width:0.75}
+		.st7 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st8 {fill:none;stroke:#c8c8c8;stroke-width:0.25}
+		.st9 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Filters"><marker
+   inkscape:stockid="Arrow2Lend"
+   orient="auto"
+   refY="0.0"
+   refX="0.0"
+   id="Arrow2Lend"
+   style="overflow:visible;"
+   inkscape:isstock="true"><path
+     id="path903"
+     style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#375623;stroke-opacity:1;fill:#375623;fill-opacity:1"
+     d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+     transform="scale(1.1) rotate(180) translate(1,0)" /></marker><marker
+   inkscape:stockid="Arrow1Lend"
+   orient="auto"
+   refY="0.0"
+   refX="0.0"
+   id="Arrow1Lend"
+   style="overflow:visible;"
+   inkscape:isstock="true"><path
+     id="path885"
+     d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+     style="fill-rule:evenodd;stroke:#375623;stroke-width:1pt;stroke-opacity:1"
+     transform="scale(0.8) rotate(180) translate(12.5,0)" /></marker>
+		<filter
+   id="filter_2">
+			<feGaussianBlur
+   stdDeviation="2"
+   id="feGaussianBlur4" />
+		</filter>
+	<marker
+   style="overflow:visible"
+   id="mrkr4-34"
+   class="st12"
+   v:arrowType="4"
+   v:arrowSize="2"
+   v:setback="7.04"
+   refX="-7.04"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible"><use
+     height="100%"
+     width="100%"
+     y="0"
+     x="0"
+     xlink:href="#lend4"
+     transform="scale(-3.52)"
+     id="use7" /></marker></defs>
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g46">
+		<title
+   id="title8">Page 1</title>
+		<v:pageProperties
+   v:drawingScale="0.0393701"
+   v:pageScale="0.0393701"
+   v:drawingUnits="24"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="Diagramme de flux"
+   v:index="0" />
+		<g
+   id="shape132-1"
+   v:mID="132"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(11.5333,-117.019)">
+			<title
+   id="title10">Début/fin.132</title>
+			<desc
+   id="desc12">Début 🏳️</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="225.018"
+   width="70.87"
+   height="28.3465" />
+			<g
+   id="shadow132-2"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1         0 14.17 239.19 Z"
+   class="st2"
+   id="path14" />
+			</g>
+			<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1 0 14.17        239.19 Z"
+   class="st3"
+   id="path17" />
+			<text
+   x="17.23"
+   y="228.09"
+   class="st4"
+   v:langID="1036"
+   id="text21"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Début <tspan
+   class="st5"
+   v:langID="1041"
+   id="tspan19">🏳️</tspan></text>
+		</g>
+		<g
+   id="shape133-8"
+   v:mID="133"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(323.344,-117.019)">
+			<title
+   id="title24">Début/fin.133</title>
+			<desc
+   id="desc26">Fin 🏁</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="225.018"
+   width="70.87"
+   height="28.3465" />
+			<g
+   id="shadow133-9"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1         0 14.17 239.19 Z"
+   class="st2"
+   id="path28" />
+			</g>
+			<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1 0 14.17        239.19 Z"
+   class="st6"
+   id="path31" />
+			<text
+   x="23.1"
+   y="228.09"
+   class="st4"
+   v:langID="1036"
+   id="text35"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Fin <tspan
+   class="st5"
+   v:langID="1041"
+   id="tspan33">🏁</tspan></text>
+		</g>
+		<g
+   id="shape138-15"
+   v:mID="138"
+   v:groupContext="shape"
+   transform="translate(3.02939,-5.34779)">
+			<title
+   id="title38">Feuille.138</title>
+			<g
+   id="shadow138-16"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<rect
+   x="0"
+   y="6.75003"
+   width="402.52"
+   height="232.441"
+   class="st7"
+   id="rect40" />
+			</g>
+			<rect
+   x="0"
+   y="6.75003"
+   width="402.52"
+   height="232.441"
+   class="st8"
+   id="rect43" />
+		</g>
+	</g>
+<path
+   style="fill:none;fill-opacity:1;stroke:#375623;stroke-width:0.75000072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+   d="m 82.272729,108.17038 c 85.684071,0 154.195471,-0.14371 239.879541,-0.14371"
+   id="path1968"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cc" /></svg>

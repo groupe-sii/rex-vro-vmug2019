@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Généré par Microsoft Visio, SVG Export workflow_4.svg Page 1 -->
+
+<svg
+   xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.6843in"
+   height="3.3221in"
+   viewBox="0 0 409.27 239.191"
+   xml:space="preserve"
+   color-interpolation-filters="sRGB"
+   class="st27"
+   version="1.1"
+   id="svg202"
+   sodipodi:docname="workflow_4.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata206"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1256"
+   inkscape:window-height="745"
+   id="namedview204"
+   showgrid="false"
+   showguides="false"
+   inkscape:zoom="0.92260707"
+   inkscape:cx="200.88445"
+   inkscape:cy="244.62456"
+   inkscape:window-x="102"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g200" />
+	<v:documentProperties
+   v:langID="1036"
+   v:metric="true"
+   v:viewMarkup="false" />
+
+	<style
+   type="text/css"
+   id="style2">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.25;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st3 {fill:#70ad47;stroke:#375623;stroke-width:0.75}
+		.st4 {fill:#feffff;font-family:Calibri;font-size:0.833336em;font-weight:bold}
+		.st5 {font-family:Segoe UI Symbol;font-size:1em;font-weight:normal}
+		.st6 {fill:#c55a11;stroke:#833c0b;stroke-width:0.75}
+		.st7 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st8 {fill:#5b9bd5;stroke:#c8c8c8;stroke-width:0.25}
+		.st9 {fill:#feffff;font-family:Calibri;font-size:0.75em}
+		.st10 {font-size:1em}
+		.st11 {fill:#7030a0;stroke:#3a1a53;stroke-width:0.75}
+		.st12 {fill:#ffc000;stroke:#bf9000;stroke-width:0.25}
+		.st13 {fill:#000000;font-family:Calibri;font-size:0.75em}
+		.st14 {marker-end:url(#mrkr4-48);stroke:#375623;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st15 {fill:#375623;fill-opacity:1;stroke:#375623;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st16 {marker-end:url(#mrkr4-54);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st17 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st18 {marker-end:url(#mrkr4-60);stroke:#3a1a53;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st19 {fill:#3a1a53;fill-opacity:1;stroke:#3a1a53;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st20 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st21 {fill:#4f87bb;font-family:Calibri;font-size:0.75em}
+		.st22 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st23 {marker-end:url(#mrkr1-80);stroke:#bf9000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st24 {fill:#bf9000;fill-opacity:1;stroke:#bf9000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st25 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st26 {fill:none;stroke:#c8c8c8;stroke-width:0.25}
+		.st27 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs
+   id="Markers">
+		<g
+   id="lend4">
+			<path
+   d="M 2 1 L 0 0 L 2 -1 L 2 1 "
+   style="stroke:none"
+   id="path4" />
+		</g>
+		<marker
+   id="mrkr4-48"
+   class="st15"
+   v:arrowType="4"
+   v:arrowSize="2"
+   v:setback="7.04"
+   refX="-7.04"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend4"
+   transform="scale(-3.52,-3.52) "
+   id="use7" />
+		</marker>
+		<marker
+   id="mrkr4-54"
+   class="st17"
+   v:arrowType="4"
+   v:arrowSize="2"
+   v:setback="7.04"
+   refX="-7.04"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend4"
+   transform="scale(-3.52,-3.52) "
+   id="use10" />
+		</marker>
+		<marker
+   id="mrkr4-60"
+   class="st19"
+   v:arrowType="4"
+   v:arrowSize="2"
+   v:setback="7.04"
+   refX="-7.04"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend4"
+   transform="scale(-3.52,-3.52) "
+   id="use13" />
+		</marker>
+		<g
+   id="lend1">
+			<path
+   d="M 1 -1 L 0 0 L 1 1 "
+   style="stroke-linecap:round;stroke-linejoin:round;fill:none"
+   id="path16" />
+		</g>
+		<marker
+   id="mrkr1-80"
+   class="st24"
+   v:arrowType="1"
+   v:arrowSize="2"
+   orient="auto"
+   markerUnits="strokeWidth"
+   overflow="visible">
+			<use
+   xlink:href="#lend1"
+   transform="scale(-3.52,-3.52) "
+   id="use19" />
+		</marker>
+	</defs>
+	<defs
+   id="Filters">
+		<filter
+   id="filter_2">
+			<feGaussianBlur
+   stdDeviation="2"
+   id="feGaussianBlur23" />
+		</filter>
+	</defs>
+	<g
+   v:mID="0"
+   v:index="1"
+   v:groupContext="foregroundPage"
+   id="g200">
+		<title
+   id="title27">Page 1</title>
+		<v:pageProperties
+   v:drawingScale="0.0393701"
+   v:pageScale="0.0393701"
+   v:drawingUnits="24"
+   v:shadowOffsetX="8.50394"
+   v:shadowOffsetY="-8.50394" />
+		<v:layer
+   v:name="Diagramme de flux"
+   v:index="0" />
+		<v:layer
+   v:name="Lien"
+   v:index="1" />
+		<g
+   id="shape15-1"
+   v:mID="15"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(11.5333,-117.019)">
+			<title
+   id="title29">Début/fin</title>
+			<desc
+   id="desc31">Début 🏳️</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="225.018"
+   width="70.87"
+   height="28.3465" />
+			<g
+   id="shadow15-2"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1         0 14.17 239.19 Z"
+   class="st2"
+   id="path33" />
+			</g>
+			<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1 0 14.17        239.19 Z"
+   class="st3"
+   id="path36" />
+			<text
+   x="17.23"
+   y="228.09"
+   class="st4"
+   v:langID="1036"
+   id="text40"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Début <tspan
+   class="st5"
+   v:langID="1041"
+   id="tspan38">🏳️</tspan></text>
+		</g>
+		<g
+   id="shape16-8"
+   v:mID="16"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(323.344,-117.019)">
+			<title
+   id="title43">Début/fin.16</title>
+			<desc
+   id="desc45">Fin 🏁</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.39370078740157):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="225.018"
+   width="70.87"
+   height="28.3465" />
+			<g
+   id="shadow16-9"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1         0 14.17 239.19 Z"
+   class="st2"
+   id="path47" />
+			</g>
+			<path
+   d="M14.17 239.19 L56.69 239.19 A14.1732 14.1732 -180 0 0 56.69 210.84 L14.17 210.84 A14.1732 14.1732 -180 1 0 14.17        239.19 Z"
+   class="st6"
+   id="path50" />
+			<text
+   x="23.1"
+   y="228.09"
+   class="st4"
+   v:langID="1036"
+   id="text54"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Fin <tspan
+   class="st5"
+   v:langID="1041"
+   id="tspan52">🏁</tspan></text>
+		</g>
+		<g
+   id="shape17-15"
+   v:mID="17"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(110.746,-109.933)">
+			<title
+   id="title57">Processus</title>
+			<desc
+   id="desc59">Vérification de mises à jour</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="217.931"
+   width="70.87"
+   height="42.5197" />
+			<g
+   id="shadow17-16"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<rect
+   x="0"
+   y="196.671"
+   width="70.8661"
+   height="42.5197"
+   class="st7"
+   id="rect61" />
+			</g>
+			<rect
+   x="0"
+   y="196.671"
+   width="70.8661"
+   height="42.5197"
+   class="st8"
+   id="rect64" />
+			<text
+   x="8.68"
+   y="215.23"
+   class="st9"
+   v:langID="1036"
+   id="text68"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Vérification de <tspan
+   x="13.47"
+   dy="1.2em"
+   class="st10"
+   id="tspan66">mises à jour</tspan></text>
+		</g>
+		<g
+   id="shape18-22"
+   v:mID="18"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(209.959,-109.933)">
+			<title
+   id="title71">Décision</title>
+			<desc
+   id="desc73">Mises à jour ?</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="217.931"
+   width="59.06"
+   height="31.8898" />
+			<g
+   id="shadow18-23"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M0 217.93 L35.43 196.67 L70.87 217.93 L35.43 239.19 L0 217.93 Z"
+   class="st2"
+   id="path75" />
+			</g>
+			<path
+   d="M0 217.93 L35.43 196.67 L70.87 217.93 L35.43 239.19 L0 217.93 Z"
+   class="st11"
+   id="path78" />
+			<text
+   x="10.12"
+   y="220.63"
+   class="st9"
+   v:langID="1036"
+   id="text80"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Mises à jour ?</text>
+		</g>
+		<g
+   id="shape19-28"
+   v:mID="19"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(209.959,-42.4954)">
+			<title
+   id="title83">Processus.19</title>
+			<desc
+   id="desc85">Mettre à jour la ressource</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="217.931"
+   width="70.87"
+   height="42.5197" />
+			<g
+   id="shadow19-29"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<rect
+   x="0"
+   y="196.671"
+   width="70.8661"
+   height="42.5197"
+   class="st7"
+   id="rect87" />
+			</g>
+			<rect
+   x="0"
+   y="196.671"
+   width="70.8661"
+   height="42.5197"
+   class="st8"
+   id="rect90" />
+			<text
+   x="6.75"
+   y="215.23"
+   class="st9"
+   v:langID="1036"
+   id="text94"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Mettre à jour la <tspan
+   x="17.66"
+   dy="1.2em"
+   class="st10"
+   id="tspan92">ressource</tspan></text>
+		</g>
+		<g
+   id="shape20-35"
+   v:mID="20"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(110.746,-180.799)">
+			<title
+   id="title97">Données</title>
+			<desc
+   id="desc99">Serveur de mises à jour</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="217.931"
+   width="47.25"
+   height="42.5197" />
+			<g
+   id="shadow20-36"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M-10.63 239.19 L60.24 239.19 L81.5 196.67 L10.63 196.67 L-10.63 239.19 Z"
+   class="st7"
+   id="path101" />
+			</g>
+			<path
+   d="M-10.63 239.19 L60.24 239.19 L81.5 196.67 L10.63 196.67 L-10.63 239.19 Z"
+   class="st12"
+   id="path104" />
+			<text
+   x="15.73"
+   y="209.83"
+   class="st13"
+   v:langID="1036"
+   id="text110"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Serveur de <tspan
+   x="21.87"
+   dy="1.2em"
+   class="st10"
+   id="tspan106">mises à </tspan><tspan
+   x="28.05"
+   dy="1.2em"
+   class="st10"
+   id="tspan108">jour</tspan></text>
+		</g>
+		<g
+   id="shape22-43"
+   v:mID="22"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(82.3995,-124.106)">
+			<title
+   id="title113">Lien dynamique</title>
+			<path
+   d="M0 232.1 L21.31 232.1"
+   class="st14"
+   id="path115" />
+		</g>
+		<g
+   id="shape23-49"
+   v:mID="23"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(181.612,-124.106)">
+			<title
+   id="title118">Lien dynamique.23</title>
+			<path
+   d="M0 232.1 L21.31 232.1"
+   class="st16"
+   id="path120" />
+		</g>
+		<g
+   id="shape24-55"
+   v:mID="24"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(238.305,-109.933)">
+			<title
+   id="title123">Lien dynamique.24</title>
+			<desc
+   id="desc125">OUI</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="7.08661"
+   cy="249.112"
+   width="45"
+   height="18.8036" />
+			<path
+   d="M7.09 239.19 L7.09 257.07"
+   class="st18"
+   id="path127" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="0.0861259"
+   y="243.712"
+   width="14.001"
+   height="10.7998"
+   class="st20"
+   id="rect129" />
+			<text
+   x="0.09"
+   y="251.81"
+   class="st21"
+   v:langID="1036"
+   id="text131"><v:paragraph
+   v:horizAlign="1" /><v:tabList />OUI</text>
+		</g>
+		<g
+   id="shape25-63"
+   v:mID="25"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(280.825,-138.279)">
+			<title
+   id="title134">Lien dynamique.25</title>
+			<desc
+   id="desc136">NON</desc>
+			<v:textBlock
+   v:margins="rect(4,4,4,4)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="21.2598"
+   cy="246.278"
+   width="45"
+   height="18.8036" />
+			<path
+   d="M0 246.28 L35.48 246.28"
+   class="st18"
+   id="path138" />
+			<rect
+   v:rectContext="textBkgnd"
+   x="12.4708"
+   y="240.878"
+   width="17.5781"
+   height="10.7998"
+   class="st22"
+   id="rect140" />
+			<text
+   x="12.47"
+   y="248.98"
+   class="st21"
+   v:langID="1036"
+   id="text142"><v:paragraph
+   v:horizAlign="1" /><v:tabList />NON</text>
+		</g>
+		<g
+   id="shape28-70"
+   v:mID="28"
+   v:groupContext="shape"
+   v:layerMember="1"
+   transform="translate(245.392,-42.4954)">
+			<title
+   id="title145">Lien dynamique.28</title>
+			<path
+   d="M0 239.19 L0 258.21 L-152.5 258.21 L-152.5 157.53"
+   class="st16"
+   id="path147" />
+		</g>
+		<g
+   id="shape32-75"
+   v:mID="32"
+   v:groupContext="shape"
+   transform="translate(-100.099,86.7387) rotate(-90)">
+			<title
+   id="title150">Feuille.32</title>
+			<path
+   d="M0 239.19 L28.35 239.19"
+   class="st23"
+   id="path152" />
+		</g>
+		<g
+   id="shape33-81"
+   v:mID="33"
+   v:groupContext="shape"
+   transform="translate(385.37,58.3922) rotate(90)">
+			<title
+   id="title155">Feuille.33</title>
+			<path
+   d="M0 239.19 L28.35 239.19"
+   class="st23"
+   id="path157" />
+		</g>
+		
+		<g
+   id="shape39-92"
+   v:mID="39"
+   v:groupContext="shape"
+   transform="translate(181.329,-66.7042)">
+			<title
+   id="title172">Feuille.39</title>
+			<path
+   d="M0 239.19 L28.35 239.19"
+   class="st23"
+   id="path174" />
+		</g><g
+   id="shape38-86"
+   v:mID="38"
+   v:groupContext="shape"
+   v:layerMember="0"
+   transform="translate(110.746,-42.4954)">
+			<title
+   id="title160">Données.38</title>
+			<desc
+   id="desc162">Ressource</desc>
+			<v:custProps>
+				<v:cp
+   v:nameU="Cost"
+   v:lbl="Coût"
+   v:prompt=""
+   v:type="7"
+   v:format="@"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="ProcessNumber"
+   v:lbl="Numéro de processus"
+   v:prompt=""
+   v:type="2"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Owner"
+   v:lbl="Propriétaire"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Function"
+   v:lbl="Fonction"
+   v:prompt=""
+   v:type="0"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+				<v:cp
+   v:nameU="StartDate"
+   v:lbl="Date de début"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="EndDate"
+   v:lbl="Date de fin"
+   v:prompt=""
+   v:type="5"
+   v:format=""
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0" />
+				<v:cp
+   v:nameU="Status"
+   v:lbl="État"
+   v:prompt=""
+   v:type="4"
+   v:format=";Non commencé;En cours;Terminé;Différé;En attente d’une contribution"
+   v:sortKey=""
+   v:invis="false"
+   v:ask="false"
+   v:langID="1036"
+   v:cal="0"
+   v:val="VT4()" />
+			</v:custProps>
+			<v:userDefs>
+				<v:ud
+   v:nameU="visVersion"
+   v:prompt=""
+   v:val="VT0(15):26" />
+				<v:ud
+   v:nameU="DefaultWidth"
+   v:prompt=""
+   v:val="VT0(0.98425196850394):24" />
+				<v:ud
+   v:nameU="DefaultHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+				<v:ud
+   v:nameU="ResizeTxtHeight"
+   v:prompt=""
+   v:val="VT0(0.59055118110236):24" />
+			</v:userDefs>
+			<v:textBlock
+   v:margins="rect(2,2,2,2)"
+   v:tabSpace="42.5197" />
+			<v:textRect
+   cx="35.4331"
+   cy="217.931"
+   width="47.25"
+   height="42.5197" />
+			<g
+   id="shadow38-87"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<path
+   d="M-10.63 239.19 L60.24 239.19 L81.5 196.67 L10.63 196.67 L-10.63 239.19 Z"
+   class="st7"
+   id="path164" />
+			</g>
+			<path
+   d="M-10.63 239.19 L60.24 239.19 L81.5 196.67 L10.63 196.67 L-10.63 239.19 Z"
+   class="st12"
+   id="path167" />
+			<text
+   x="16.78"
+   y="220.63"
+   class="st13"
+   v:langID="1036"
+   id="text169"><v:paragraph
+   v:horizAlign="1" /><v:tabList />Ressource</text>
+		</g>
+		<g
+   id="shape40-97"
+   v:mID="40"
+   v:groupContext="shape"
+   transform="translate(209.675,418.764) rotate(180)">
+			<title
+   id="title177">Feuille.40</title>
+			<path
+   d="M0 239.19 L28.35 239.19"
+   class="st23"
+   id="path179" />
+		</g>
+		<g
+   id="shape41-102"
+   v:mID="41"
+   v:groupContext="shape"
+   transform="rotate(-49.889381,-4.9020196,-12.431013)">
+			<title
+   id="title182">Feuille.41</title>
+			<path
+   d="M -0.67675378,239.948 38.611276,239.92227"
+   class="st23"
+   id="path184"
+   inkscape:connector-curvature="0"
+   style="stroke:#bf9000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#mrkr1-80)"
+   sodipodi:nodetypes="cc" />
+		</g>
+		<g
+   id="shape42-107"
+   v:mID="42"
+   v:groupContext="shape"
+   transform="rotate(130.11062,130.73286,234.8509)">
+			<title
+   id="title187">Feuille.42</title>
+			<path
+   d="M -15.527746,239.49347 24.09,239.19"
+   class="st23"
+   id="path189"
+   inkscape:connector-curvature="0"
+   style="stroke:#bf9000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#mrkr1-80)"
+   sodipodi:nodetypes="cc" />
+		</g>
+		<g
+   id="shape99-112"
+   v:mID="99"
+   v:groupContext="shape"
+   transform="translate(3.0294,-5.34783)">
+			<title
+   id="title192">Feuille.99</title>
+			<g
+   id="shadow99-113"
+   v:groupContext="shadow"
+   v:shadowOffsetX="0.345598"
+   v:shadowOffsetY="-1.97279"
+   v:shadowType="1"
+   transform="matrix(1,0,0,1,0.345598,1.97279)"
+   class="st1">
+				<rect
+   x="0"
+   y="6.74996"
+   width="402.52"
+   height="232.441"
+   class="st25"
+   id="rect194" />
+			</g>
+			<rect
+   x="0"
+   y="6.74996"
+   width="402.52"
+   height="232.441"
+   class="st26"
+   id="rect197" />
+		</g>
+	</g>
+</svg>
