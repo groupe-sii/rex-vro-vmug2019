@@ -1,5 +1,3 @@
-[![pipeline status](https://gitlab.siinergy.net/sii-ouest/vmware/rex-vro-vmug2019/badges/master/pipeline.svg)](https://gitlab.siinergy.net/sii-ouest/vmware/rex-vro-vmug2019/commits/master)
-
 # REX vRO - vMUG 2019 @Paris
 
 REX sur l'usage de vRO dans le cadre de nos activités d'ESN (vMUG - Paris, Septembre 2019)
@@ -7,7 +5,8 @@ REX sur l'usage de vRO dans le cadre de nos activités d'ESN (vMUG - Paris, Sept
 ## Afficher la présentation
 
 ```bash
-git clone https://gitlab.siinergy.net/sii-ouest/vmware/rex-vro-vmug2019.git
+git clone git@github.com:groupe-sii/rex-vro-vmug2019.git
+python -m http.server
 ```
 
 Afficher le fichier `index.html` dans votre navigateur.
