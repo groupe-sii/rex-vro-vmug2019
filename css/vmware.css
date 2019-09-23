@@ -129,11 +129,11 @@ ins {
 
 /** Specific for vMUG theming **/
 body {
-  background-image: url('../../images/header-vmug.png'); /* vMUG header with 5 colors */
+  background-image: url('../images/header-vmug.png'); /* vMUG header with 5 colors */
   background-color: rgba(255, 255, 255, 0);
 }
 
 .reveal .slide-background.present {
-  background-image: url('../../images/devil.png');
+  background-image: url('../images/devil.png');
   background-size: 50%;
 }
