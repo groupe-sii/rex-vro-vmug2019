@@ -7,7 +7,7 @@ REX sur l'usage de vRO dans le cadre de nos activités d'ESN (vMUG - Paris, Sept
 ## Afficher la présentation
 
 ```bash
-git clone --recurse-submodules https://gitlab.siinergy.net/sii-ouest/vmware/rex-vro-vmug2019.git 
+git clone https://gitlab.siinergy.net/sii-ouest/vmware/rex-vro-vmug2019.git
 ```
 
 Afficher le fichier `index.html` dans votre navigateur.

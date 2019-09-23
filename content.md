@@ -286,6 +286,27 @@ vRealize Orchestrator est disponible gratuitement<span style="color:red;">\*</sp
 ## Les interfaces
 
 
+### Client Java
+
+![vRealize Orchestrator Java client](./images/java-client.png)<!-- .element class="centered bordered" style="width:90%; margin-left:5%;" -->
+
+
+### HTML5 ready
+#### Quelques habitudes à changer…
+
+* Voir
+* Éxécuter:
+  * Run
+  * Schedule
+* Éditer (>= 7.6)
+* Organisation par *tag*
+
+
+### HTML5
+
+![vRealize Orchestrator](./images/history_vmware_vro_html5.png)<!-- .element class="centered bordered" style="width:100%;" -->
+
+
 #### Control center
 
 Gestion de l'appliance et/ou du cluster:
@@ -307,27 +328,6 @@ Gestion de l'appliance et/ou du cluster:
 <!-- .slide: style="text-align:center;" -->
 
 ![Orchestrator Control center](./images/dev-resources.png)<!-- .element class="centered bordered" style="width:90%;z-index:-1;" -->
-
-
-### HTML5 ready
-#### Quelques habitudes à changer…
-
-* Voir
-* Éxécuter:
-  * Run
-  * Schedule
-* Éditer (>= 7.6)
-* Organisation par *tag*
-
-
-### HTML5
-
-![vRealize Orchestrator](./images/history_vmware_vro_html5.png)<!-- .element class="centered bordered" style="width:100%;" -->
-
-
-### Client Java
-
-![vRealize Orchestrator Java client](./images/java-client.png)<!-- .element class="centered bordered" style="width:90%; margin-left:5%;" -->
 
 
 ### API REST
