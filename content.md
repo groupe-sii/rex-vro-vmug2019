@@ -605,7 +605,7 @@ Interaction avec des équipements réseaux pour provisionner automatiquement des
 
 Les slides de la présentation:
 
-[groupe-sii.github.io/rex-vro-vmug2019](https://groupe-sii.github.io/rex-vro-vmug2019/)
+[vupti.me/vmug2019](https://vupti.me/vmug2019)
 
 
 ## Merci !
