@@ -5,7 +5,9 @@
 
 Note: Bonjour à toutes et à tous,
 
-Avec Antoine, nous allons vous parler d'un produit généralement mal connu dans le portfolio VMware, et qui pourtant permet de faire beaucoup de choses: vRealize Orchestrator.
+Avant de rejoindre la vBeer (je sais que certains sont déjà impatients), Antoine et moi allons vous parler de vRO: vRealize Orchestrator.
+
+C'est un des plus anciens produits du portfolio VMware et pourtant il est généralement assez mal connu.
 
 
 
@@ -81,12 +83,6 @@ Note: © Image: http://www.vmhub.com/vmware-vcenter-orchestrator
 * Dernière version: vRealize Orchestrator **7.6.0**
 
 
-![vRealize Orchestrator](./images/history_vmware_vro.png)<!-- .element class="centered bordered" style="width:100%;" -->
-
-
-![vRealize Orchestrator](./images/history_vmware_vro_html5.png)<!-- .element class="centered bordered" style="width:100%;" -->
-
-
 
 ## Orchestration
 
@@ -113,7 +109,7 @@ Le workflow (*WF*) sert à décrire:
 
 
 ### Le workflow de base (1/4)
-<!-- .slide: data-transition="fade" data-transition-speed="slow" -->
+<!-- .slide: data-transition="slide fade" data-transition-speed="slow" -->
 ![Example de worflow](./images/workflow_1.svg)<!-- .element class="centered" style="width:120%;" -->
 
 
@@ -128,7 +124,7 @@ Le workflow (*WF*) sert à décrire:
 
 
 ### Le workflow de base (4/4)
-<!-- .slide: data-transition="fade" data-transition-speed="slow" -->
+<!-- .slide: data-transition="fade slide" data-transition-speed="slow" -->
 ![Example de worflow](./images/workflow_4.svg)<!-- .element class="centered" style="width:120%;" -->
 
 
@@ -206,16 +202,6 @@ Note:
 * Approvisionnement
 * Appliquer des patchs de sécurité
 * Auto résolution des incidents connus
-
-
-### La proposition de vRO
-
-* Librairies standards:
-  * Contenu initial<!-- .element class="fragment" data-fragment-index="0" -->
-  * <!-- .element class="fragment" data-fragment-index="1"-->Contenu proposé par **VMware**
-    * <!-- .element class="fragment" data-fragment-index="1" -->Associé aux produits VMware principalement
-* <!-- .element class="fragment" data-fragment-index="2" -->Contenus *partners*
-* <!-- .element class="fragment" data-fragment-index="3" -->Contenus personnalisés
 
 
 
@@ -354,8 +340,14 @@ Cela peut inclure des modèles personnalisés (via les plugins customs).
 
 #### Exemple inventaire vCenter
 
-<!-- .slide: style="text-align:center;" -->
+<!-- .slide: style="text-align:center;" data-transition="slide none" -->
 ![vRO inventory of vCenter](./images/vcenter-inventory.png)<!-- .element class="centered bordered" style="width:100%;" -->
+
+
+#### Exemple inventaire vCenter
+
+<!-- .slide: style="text-align:center;" data-transition="none slide" -->
+![vRO inventory of vCenter](./images/vcenter-inventory-zoom.png)<!-- .element class="centered bordered" style="width:100%;" -->
 
 
 ### Workflow
@@ -378,7 +370,7 @@ Scénario exécutable basé sur des:
 #### Exemple de formulaire
 
 <!-- .slide: style="text-align:center;" -->
-![Example de workflow](./images/vro-workflow_wizard.png)<!-- .element class="centered bordered" style="width:80%;" -->
+![Example de workflow](./images/vro-workflow_wizard.png)<!-- .element class="centered bordered" style="width:100%;" -->
 
 
 ### Actions
@@ -405,7 +397,9 @@ isHaEnabled = System.getModule("com.vmware.library.vc.cluster")
 
 > Les actions c'est bon, mangez-en !
 
-![Mangez des actions !](./images/mangez-en.gif)<!-- .element class="centered bordered" -->
+<p style="text-align:center;">
+  <img src="./images/mangez-en.gif" alt="Mangez-en" /><!-- .element class="centered bordered" -->
+</p>
 
 Prévoyez des actions **génériques**:
 
@@ -531,9 +525,9 @@ Les *uses-cases* suivants s'appuient sur quelques longues années d'utilisation 
 
 😉
 
-<div class="tweet" data-src="https://twitter.com/cqchu/status/1102968952542629888">
-[![Cédric/PowerCLI](./images/cedricq-powercli.png)<!-- .element class="centered bordered" style="width:70%;"-->](https://twitter.com/cqchu/status/1102968952542629888)
-</div>
+<!--<div class="tweet" data-src="https://twitter.com/cqchu/status/1102968952542629888">-->
+[![Cédric/PowerCLI](./images/cedricq-powercli.png)<!-- .element class="centered bordered" style="width:80%;"-->](https://twitter.com/cqchu/status/1102968952542629888)
+<!-- </div> -->
 
 
 ### Use-Case: On-boarding
